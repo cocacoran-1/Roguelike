@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Prototype_v01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\weapons\\skills\\nonelemental\\bouncingstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\skills\\nonelemental\\bouncingstone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|c:\\prototype_v01\\assets\\_project\\scripts\\weapons\\projectilebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\projectilebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|c:\\prototype_v01\\assets\\_project\\scripts\\weapons\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\weaponbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|c:\\prototype_v01\\assets\\_project\\scripts\\scriptableobjects\\nonelemental\\bouncingstoneskilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\scriptableobjects\\nonelemental\\bouncingstoneskilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|c:\\prototype_v01\\assets\\_project\\scripts\\weapons\\skills\\nonelemental\\bouncingstoneskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\skills\\nonelemental\\bouncingstoneskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\weapons\\skills\\nonelemental\\nonelementalweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\skills\\nonelemental\\nonelementalweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\managers\\skilldatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\managers\\skilldatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\weapons\\weaponutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\weaponutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\weapons\\skills\\fire\\fireballskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\weapons\\skills\\fire\\fireballskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\managers\\objectpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\managers\\objectpoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|C:\\Prototype_v01\\assets\\_project\\scripts\\scriptableobjects\\fire\\fireballskilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F12E4C2-CB8F-FCBC-616F-48014C3AC20C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\scripts\\scriptableobjects\\fire\\fireballskilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectileBase.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\ProjectileBase.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\ProjectileBase.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\ProjectileBase.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\ProjectileBase.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:51:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponBase.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\WeaponBase.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\WeaponBase.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\WeaponBase.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\WeaponBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:51:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BouncingStoneSkillData.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\ScriptableObjects\\NonElemental\\BouncingStoneSkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\ScriptableObjects\\NonElemental\\BouncingStoneSkillData.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\ScriptableObjects\\NonElemental\\BouncingStoneSkillData.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\ScriptableObjects\\NonElemental\\BouncingStoneSkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:39:59.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeaponUtils.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\WeaponUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\WeaponUtils.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\WeaponUtils.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\WeaponUtils.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAgwFcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:37:51.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SkillDataManager.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Managers\\SkillDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Managers\\SkillDataManager.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Managers\\SkillDataManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Managers\\SkillDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:28:56.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BouncingStoneSkill.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStoneSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStoneSkill.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStoneSkill.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStoneSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:19:13.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObjectPoolManager.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Managers\\ObjectPoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Managers\\ObjectPoolManager.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Managers\\ObjectPoolManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Managers\\ObjectPoolManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:28:47.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BouncingStone.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStone.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStone.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStone.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\BouncingStone.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:08:46.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FireBallSkillData.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\ScriptableObjects\\Fire\\FireBallSkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\ScriptableObjects\\Fire\\FireBallSkillData.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\ScriptableObjects\\Fire\\FireBallSkillData.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\ScriptableObjects\\Fire\\FireBallSkillData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T15:00:39.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NonElementalWeapon.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\NonElementalWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\NonElementalWeapon.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\NonElementalWeapon.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\Skills\\NonElemental\\NonElementalWeapon.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:11:58.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FireBallSkill.cs",
+              "DocumentMoniker": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\Fire\\FireBallSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\Scripts\\Weapons\\Skills\\Fire\\FireBallSkill.cs",
+              "ToolTip": "C:\\Prototype_v01\\Assets\\_Project\\Scripts\\Weapons\\Skills\\Fire\\FireBallSkill.cs",
+              "RelativeToolTip": "Assets\\_Project\\Scripts\\Weapons\\Skills\\Fire\\FireBallSkill.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T14:13:26.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
